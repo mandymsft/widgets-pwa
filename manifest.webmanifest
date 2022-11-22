@@ -1,6 +1,6 @@
 {
   "short_name": "Widgets App",
-  "name": "Widgets Sample App",
+  "name": "Widgets Sample App (no widget icon)",
   "display": "standalone",
   "display_override": ["window-controls-overlay"],
   "start_url": "./index.html",
