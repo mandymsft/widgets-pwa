@@ -6,12 +6,8 @@
   "start_url": "./index.html",
   "icons": [
     {
-      "src": "icons/48x48.png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icons/144x144.png",
-      "sizes": "144x144"
+      "src": "icons/500x500.png",
+      "sizes": "500x500"
     }
   ],
   "widgets": [
