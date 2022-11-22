@@ -64,12 +64,6 @@
           "label": "Test screenshot"
         }
       ],
-      "icons": [
-        {
-          "src": "icons/48x48.png",
-          "sizes": "48x48"
-        }
-      ],
       "backgrounds": [
         {
           "src": "icons/background.png",
