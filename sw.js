@@ -68,7 +68,7 @@ const updateAppWidgets = async () => {
 
 self.addEventListener('install', (event) => {
   // cach counter script for offline use
-  event.waitUntil(caches.open("v1").then((cache) => cache.add("/counter.js")));
+  event.waitUntil(caches.open("v1").then((cache) => cache.add("/widgets-pwa/counter.js")));
   self.skipWaiting();
 });
 
