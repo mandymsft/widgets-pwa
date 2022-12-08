@@ -23,7 +23,7 @@
       "screenshots": [
         {
           "src": "icons/screenshot.png",
-          "sizes": "600x400",
+          "sizes": "400x600",
           "label": "Test screenshot"
         }
       ],
